@@ -1,0 +1,18 @@
+{
+	"version" : "1.0",
+	"author" : "Chris1231",
+	
+	"name" :  {
+		"en" : "StoneDoor",
+		"de" : "Steintür"
+	},
+	"description" : {
+		"en" : "Add a stone door to the game.",
+		"de" : "Diese Mod fügt dem Spiel eine Steintür hinzu."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/StoneDoor/releases",
+		"wiki" : "https://github.com/DigglesMods/StoneDoor/wiki"
+	}
+}
