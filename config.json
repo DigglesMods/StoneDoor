@@ -4,11 +4,11 @@
 	
 	"name" :  {
 		"en" : "StoneDoor",
-		"de" : "SteintÃ¼r"
+		"de" : "Steintür"
 	},
 	"description" : {
 		"en" : "Add a stone door to the game.",
-		"de" : "Diese Mod fÃ¼gt dem Spiel eine SteintÃ¼r hinzu."
+		"de" : "Diese Mod fügt dem Spiel eine Steintür hinzu."
 	},
 	
 	"links" : {
