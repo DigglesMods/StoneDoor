@@ -8,7 +8,7 @@ textwin print "/(is10)/(ildata/gui/icons/Steintuer.tga)"
 ohlp_ttheadlinestyle
 textwin print "Kamienne drzwi"
 ohlp_tttextbodystyle
-textwin print "Kamienne drzwi sÂ¹ bardziej stabilne niÂ¿ drewniane drzwi, jednak sprawdzajÂ¹ siÃª si samo jak one."
+textwin print "Kamienne drzwi s¹ bardziej stabilne ni¿ drewniane drzwi, jednak sprawdzaj¹ siê si samo jak one."
 
 // ---- do not change anything below this line ---
 
