@@ -6,7 +6,7 @@ textwin print "/(is10)/(ildata/gui/icons/Steintuer.tga)"
 // ---- text starts here - do not change anything above this line ---
 
 ohlp_ttheadlinestyle
-textwin print "Kamenne dveoe"
+textwin print "Kamenné dveøe"
 ohlp_tttextbodystyle
 textwin print "The stone door, more stable than the wooden door, but has the same characteristics as the wooden door."
 
